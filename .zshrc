@@ -12,4 +12,3 @@ source ~/.local/share/omarchy/default/bash/functions
 source ~/.local/share/omarchy/default/bash/envs
 
 fastfetch
-source ~/.config/zsh/mounts
