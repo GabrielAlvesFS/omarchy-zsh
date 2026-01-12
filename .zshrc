@@ -6,9 +6,4 @@ source ~/.config/zsh/prompt
 source ~/.config/zsh/inputrc
 [[ -r ~/.config/zsh/secrets ]] && source ~/.config/zsh/secrets
 
-# source from Omarchy
-source ~/.local/share/omarchy/default/bash/aliases
-source ~/.local/share/omarchy/default/bash/functions
-source ~/.local/share/omarchy/default/bash/envs
-
 fastfetch
